@@ -3,3 +3,4 @@ There is also significant radiation.
 Many metals and semiconductor will work well.
 Materials that are radiation-tolerant will be important.
 Added from Kevin
+Materials that are radiation-tolerant will be important. New change.
