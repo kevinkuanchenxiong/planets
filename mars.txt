@@ -2,3 +2,4 @@ The climate is dry and mas has little atmosphere.
 There is also significant radiation.
 Many metals and semiconductor will work well.
 Materials that are radiation-tolerant will be important.
+Added from Kevin
